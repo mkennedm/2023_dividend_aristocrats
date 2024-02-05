@@ -20,6 +20,12 @@ A matrix has information on every stock including the dividend yield, estimated 
 
 ![matrix](https://github.com/mkennedm/2023_dividend_aristocrats/assets/8769212/4b4a80c6-c68e-4752-a832-f0aa16d70973)
 
+Watch a video of the published report here:
+
+
+https://github.com/mkennedm/2023_dividend_aristocrats/assets/8769212/0889723a-ef2b-49d0-bbb1-10f0cffb2778
+
+
 
 ## Data Collection
 ### 25 Year History
